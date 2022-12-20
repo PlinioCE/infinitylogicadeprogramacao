@@ -1,0 +1,10 @@
+print('-=' * 15)
+print('VARIÁVEL LOWER - Aividade 01')
+print('-=' * 15)
+
+texto1 = str(input('DIGITE UMA FRASE COM LETRAS MAIÚSCULAS: '))
+print()
+print(texto1.lower(), '\nEu pedi letras MAIÚSUCLAS!')
+texto2 = str(input('\nVAMOS TENTAR NOVAMENTE, LETRAS MAIÚSCULAS, VIU?! '))
+print()
+print(texto2.lower(), '\nDe novo?! DESISTO!')
