@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01 - Lógica de Programação - Online.iml" filepath="$PROJECT_DIR$/.idea/01 - Lógica de Programação - Online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02 - Python - Online/.idea/02 - Python - Online.iml" filepath="$PROJECT_DIR$/../02 - Python - Online/.idea/02 - Python - Online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03 - Python - Presencial/.idea/03 - Python - Presencial.iml" filepath="$PROJECT_DIR$/../03 - Python - Presencial/.idea/03 - Python - Presencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04 - Projeto CRUD - Cliente/.idea/04 - Projeto CRUD - Cliente.iml" filepath="$PROJECT_DIR$/../04 - Projeto CRUD - Cliente/.idea/04 - Projeto CRUD - Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Python - Curso em Vídeo/PythonExercicios/.idea/PythonExercicios.iml" filepath="$PROJECT_DIR$/../../../Python - Curso em Vídeo/PythonExercicios/.idea/PythonExercicios.iml" />
+    </modules>
+  </component>
+</project>

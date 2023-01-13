@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="02 - Python - Online" />
+    <orderEntry type="module" module-name="03 - Python - Presencial" />
+    <orderEntry type="module" module-name="04 - Projeto CRUD - Cliente" />
+    <orderEntry type="module" module-name="PythonExercicios" />
+  </component>
+</module>
